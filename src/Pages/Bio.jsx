@@ -11,7 +11,7 @@ const Bio = () => {
   <img src={su} alt="" className='w-full h-full object-cover'/>
 </div>
 
-      <span className='hello text-center px-4'>I'm the baddest there is, and I got batman as my man so watch it</span>
+      <span className='hello text-center px-4'>I'm the baddest there is, and I got batman behind me </span>
     </div>
   )
 }
